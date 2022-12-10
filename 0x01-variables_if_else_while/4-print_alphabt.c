@@ -17,8 +17,9 @@ int main(void)
 	}
 	while ((ch == 'e') && (ch == 'q'))
 	{
+		putchar(ch);
 		continue;
 	}
-	putchar(ch);
+	putchar('\n');
 	return (0);
 }
