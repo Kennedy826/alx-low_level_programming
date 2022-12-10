@@ -21,5 +21,6 @@ int main(void)
 		putchar(CH);
 		CH++;
 	}
+
 	return (0);
 }
