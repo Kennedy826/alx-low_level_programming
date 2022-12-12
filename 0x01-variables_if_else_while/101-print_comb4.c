@@ -4,7 +4,7 @@
 /**
  * main - prints different combinations of three digits
  *
- * Returns: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
